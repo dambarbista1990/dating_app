@@ -1,16 +1,6 @@
 # dating_app
 
-A new Flutter application.
+This is a dating demo app UI inspire by one of dribble design link given below:
+https://dribbble.com/shots/15212873/attachments/6958010?mode=media
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screen Shot 2021-05-26 at 1 00 20 AM](https://user-images.githubusercontent.com/60531116/119606911-01b26500-bdb9-11eb-901e-c7a2e58478dd.png)
