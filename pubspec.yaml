@@ -1,0 +1,36 @@
+name: dating_app
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  font_awesome_flutter: ^8.11.0
+  flutter_svg: ^0.22.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+      - images/image.jpg
+      - images/comment.svg
+      - images/compass.svg
+      - images/chat.svg
+      - images/cat.jpeg
+
+
+
+
